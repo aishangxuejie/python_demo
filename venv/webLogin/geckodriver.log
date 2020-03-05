@@ -1,0 +1,26 @@
+[114244:7864:1230/151059.986:ERROR:cache_util_win.cc(21)] Unable to move the cache: ¾Ü¾ø·ÃÎÊ¡£ (0x5)
+[114244:7864:1230/151059.986:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+[114244:7864:1230/151059.986:ERROR:disk_cache.cc(178)] Unable to create cache
+[114244:7864:1230/151059.986:ERROR:shader_disk_cache.cc(605)] Shader Cache Creation failed: -2
+[1516:116712:1230/151113.425:ERROR:cache_util_win.cc(21)] Unable to move the cache: ¾Ü¾ø·ÃÎÊ¡£ (0x5)
+[1516:116712:1230/151113.425:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+[1516:116712:1230/151113.425:ERROR:disk_cache.cc(178)] Unable to create cache
+[1516:116712:1230/151113.425:ERROR:shader_disk_cache.cc(605)] Shader Cache Creation failed: -2
+[Child 7456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341[
+Child 3380, Chr[Child 745ome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3380, Chrom[Child 121644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 121644, Chrome_ChildThread] WARN
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Child 121172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channe[Child 6592, Chrome_ChildThread] WARNING: pipe erl_win.cc, line 341ro
+r: 109[Child 121172, Chrome_ChildThread] WARNING: pipe error: 109: file z: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6592, Chrome_Chil[Child 1516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1516, Chrome_ChildThread] WARNING: pipe e
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
